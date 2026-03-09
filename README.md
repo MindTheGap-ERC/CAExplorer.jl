@@ -251,3 +251,34 @@ end
 heatmap!(ax, image)
 fig
 ```
+
+## Authors
+
+Lead engineer: __Johan Hidding__
+The Netherlands eScience Center
+email: j.hidding [at] esciencecenter.nl
+Web page: [www.esciencecenter.nl/team/johan-hidding-msc/](https://www.esciencecenter.nl/team/johan-hidding-msc/)
+ORCID: [0000-0002-7550-1796](https://orcid.org/0000-0002-7550-1796)
+
+## Copyright
+
+Copyright 2023-2026 The Netherlands eScience Center and Utrecht University
+
+## License
+
+> This program is free software: you can redistribute it and/or modify
+> it under the terms of the GNU General Public License as published by
+> the Free Software Foundation, either version 3 of the License, or
+> (at your option) any later version.
+>
+> This program is distributed in the hope that it will be useful,
+> but WITHOUT ANY WARRANTY; without even the implied warranty of
+> MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+> GNU General Public License for more details.
+>
+> You should have received a copy of the GNU General Public License
+> along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+## Funding information
+
+Funded by the European Union (ERC, MindTheGap, StG project no 101041077). Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Council. Neither the European Union nor the granting authority can be held responsible for them.
