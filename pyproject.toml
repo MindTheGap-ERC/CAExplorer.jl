@@ -1,0 +1,7 @@
+[project]
+name = "caexplorer-jl"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "entangled-cli>=2.4.2",
+]
